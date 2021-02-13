@@ -1,0 +1,17 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc ./demo/hello.ts",
+    "init:config": "tsc --init",
+    "watch:config": "tsc -w"
+  },
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.4"
+  }
+}

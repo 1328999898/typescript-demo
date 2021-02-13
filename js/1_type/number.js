@@ -1,0 +1,10 @@
+"use strict";
+var baseNumber = 1;
+var hexNumber = 0xf00d;
+var binaryNumber = 10;
+var octalNumber = 484;
+var nanNumber = NaN;
+var infinityNumber = Infinity;
+var nInfinity = Infinity;
+var nBinary = 2;
+var nHex = 0xff;

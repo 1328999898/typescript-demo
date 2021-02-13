@@ -1,0 +1,10 @@
+"use strict";
+var test = [1, 2, 3, 4, 5];
+test.push(9);
+console.log(test);
+var test1 = [1, 2, 3, 4, 5];
+var infArray = [1, 2, 3, 4, 5];
+var nArray = [1, 2, 3, 4, 5];
+var nArrayGen = ['a', 'b', 'c'];
+var nArrayI = [1, 2, 3, 4, 5];
+var nArrayAny = [1, 'a', ['a', 'b'], 333];

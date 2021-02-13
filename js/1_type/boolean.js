@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var isBoolean1 = true;
+var isBoolean2 = Boolean(1);
+var isBoolean4 = new Boolean(1);
+console.log(isBoolean1);
+console.log(isBoolean2);
+console.log(isBoolean4);
+var b = true;
+var bFalse = false;
+var bBoolean = Boolean(1);
+var bBooleanFalse = Boolean(0);
+console.log('-------------');
+console.log(bBoolean);
+console.log(bBooleanFalse);
